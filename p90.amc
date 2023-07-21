@@ -1,0 +1,334 @@
+<Root>
+	<DefaultMacro>
+		<Major></Major>
+		<Description>WR4 --- Agility --- 1st Shoot 2
+</Description>
+		<Comment></Comment>
+		<GUIOption>
+			<RepeatType>1</RepeatType>
+		</GUIOption>
+		<KeyUp>
+			<Syntax></Syntax>
+		</KeyUp>
+		<KeyDown>
+			<Syntax>//1 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 15
+Delay 12 ms
+//2 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 16
+Delay 12 ms
+//3 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 16
+Delay 12 ms
+//4 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 17
+Delay 12 ms
+//5 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 18
+Delay 12 ms
+//6 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 20
+Delay 12 ms
+//7 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 8
+Delay 12 ms
+//8 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -1
+Delay 12 ms
+//9 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -2
+Delay 12 ms
+//10 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -1
+Delay 12 ms
+//11 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//12 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 1
+Delay 12 ms
+//13 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -1
+Delay 12 ms
+//14 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -1
+Delay 12 ms
+//15 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -1
+Delay 12 ms
+//16 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -1
+Delay 12 ms
+//17 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -2
+Delay 12 ms
+//18 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -1
+Delay 12 ms
+//19 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -1
+Delay 12 ms
+//20 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//21 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -1
+Delay 12 ms
+//22 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 -2
+Delay 12 ms
+//23 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//24 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//25 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//26 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//27 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//28 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//29 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//30 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//31 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//32 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//33 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//34 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//35 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//36 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//37 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//38 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//39 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//40 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//41 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//42 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//43 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//44 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+//45 bullet
+LeftDown 1
+Delay 64 ms
+LeftUp 1
+Delay 13 ms
+MoveR 0 0
+Delay 12 ms
+
+</Syntax>
+		</KeyDown>
+		<Software>AUG
+</Software></DefaultMacro>
+</Root>
